@@ -1,0 +1,9 @@
+E_D.png
+N.png
+N_D.png
+W_D.png
+S_D.png
+W.png
+DEATH.png
+S.png
+E.png
